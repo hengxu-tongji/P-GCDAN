@@ -1,0 +1,1 @@
+python train.py --data_name=geolife --data_path=../data/
