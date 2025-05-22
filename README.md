@@ -16,4 +16,4 @@ All experiments are conducted on a server with the following configurations:
 
 ## Run the code
 
-`python main.py --data_name=dataSet_Geolife --data_path=../data/`
+`python main.py --data_name=dataSet_geolife --data_path=../data/`
