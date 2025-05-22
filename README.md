@@ -1,7 +1,6 @@
-# Predicting Human Mobility via POI-aware Graph Convolutional Dual-attentive Networks
+# POI-aware Graph Convolutional Dual-attentive Networks
 
-Code implementation of my undergraduate thesis : Location Prediction Model Based On
-Urban Individual Mobility Data.
+Code implementation of my undergraduate thesis : Location Prediction Model Based On Urban Individual Mobility Data.
 
 ## Requirements
 * `python 3.8.19`
